@@ -14,7 +14,7 @@
   },
   "private": "true",
   "dependencies": {
-    "concurrently": "^5.2.0",
+    "concurrently": "^5.3.0",
     "dotenv": "^8.2.0",
     "serve": "^11.3.2",
     "web-push": "^3.4.4"
